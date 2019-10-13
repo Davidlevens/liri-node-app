@@ -1,98 +1,120 @@
-# liri-node-app
-In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
+<h1>LIRI Node App</h1>
 
-Project overview
+
+<hr>
+
+Author:  David Levens
+
+<hr>
+
+<h3> App demo </h3>
+
+![alt text](https://github.com/mjbenefiel/liri-node-app/blob/master/gif/liriappdemo.gif "Liri Node App")
+
+<hr>
+
+<h2> Project overview</h2>
 LIRI is a command line Node app that takes in parameters and returns data from the following APIs: Bandsintown, Spotify and OMDb.
-How it works
+<hr>
+
+<h2> How it works </h2>
 Type into the command line....
-node liri.js concert-this "artist/band name here" to return concert information from Bandsintown.
 
-node liri.js spotify-this-song "song name here" to return song information from Spotify. If no song is entered, a hard coded default song will return.
+- ```node liri.js concert-this "artist/band name here"``` to return concert information from Bandsintown. 
 
-node liri.js movie-this "movie name here" to return movie information from OMDb. If no movie is entered, a hard coded default movie will return.
+- ```node liri.js spotify-this-song "song name here"``` to return song information from Spotify. If no song is entered, a hard coded default song will return.
+  
+- ```node liri.js movie-this "movie name here"``` to return movie information from OMDb. If no movie is entered, a hard coded default movie will return.
+  
+- ```node liri.js do-what-it-says``` to return information stored in random.txt
 
-node liri.js do-what-it-says to return information stored in random.txt
+<hr>
 
-Technology and packages used
-Node.js
+<h2>Technology and packages used</h2>
 
-chalk
+[Node.js](https://nodejs.org/en/)
 
-figlet
+[chalk](https://www.npmjs.com/package/chalk)
 
-fs
+[figlet](https://www.npmjs.com/package/figlet)
 
-request
+[fs](https://www.npmjs.com/package/fs)
 
-Bandsintown API
+[request](https://www.npmjs.com/package/request)
 
-OMDb API
+[Bandsintown API](http://www.artists.bandsintown.com/bandsintown-api)
 
-Spotify API
+[OMDb API](http://www.omdbapi.com/)
 
-Below is a thorough, but not comprehensive, step-by-step process of how I got the app running in terms of code
-Navigate to root of project. Initialize package.json by running npm init -y
+[Spotify API](https://developer.spotify.com/documentation/web-api/)
 
-Creation of .gitignore file
+<hr></hr>
 
-Creation of keys.js
+<h4>Below is a thorough, but not comprehensive, step-by-step process of how I got the app running in terms of code</h4>
 
-Spotify keys for export
-Creation of .env file to store Spotify API keys
+- Navigate to root of project. Initialize package.json by running ```npm init -y```
 
-Creation of random.txt with default result for do-what-it-says command
+- Creation of .gitignore file
 
-Creation of liri.js
+- Creation of keys.js
+  - Spotify keys for export
 
-npm install dotenv
+- Creation of .env file to store Spotify API keys
 
-npm install fs
+- Creation of random.txt with default result for do-what-it-says command
 
-npm install request
+- Creation of liri.js 
 
-npm install figlet
+- ```npm install dotenv```
 
-npm install node-spotify-api
+- ```npm install fs```
 
-npm install chalk
+- ```npm install request```
 
-declare command line variables (command, parameter)
+- ```npm install figlet```
 
-switchCase(); switch statement holding:
+- ```npm install node-spotify-api```
 
-bandsInTown(parameter);
-spotifySong(parameter)
-omdbInfo(parameter);
-getRandom(parameter);
-display(parameter);
-bandsInTown();
+- ```npm install chalk``` 
 
-declare artist variable as parameter
-figlet "Bandsintown" for style
-Send request for concerts to Bandsintown API based off "artist" entered into parameter
-parse data into readable object
-return name, city, country and date of concerts
-Chalk package used for style
-spotifySong();
+- declare command line variables (command, parameter)
 
-declare searchTrack variable as parameter
-set undefined parameter
-return Ace of Base The Sign if no track entered into parameter
-figlet "Spotify" for style
-search Spotify API and return artist, song, url preview and album name of song entered in parameter
-Chalk package used for style
-ombdInfo();
+- switchCase(); switch statement holding:
+  - bandsInTown(parameter);
+  - spotifySong(parameter)
+  - omdbInfo(parameter);
+  - getRandom(parameter);
+  - display(parameter);
 
-set findMovie variable as parameter
-set undefined parameter
-return "Mr. Nobody" if no parameter entered
-figlet "OMDB" for style
-Send movie request to OMDb API and return title, release year, IMDB rating, Rotten Tomatoes rating, country, language, plot and actors
-Chalk package used for style
-getRandom();
+- bandsInTown();
+  - declare artist variable as parameter
+  - figlet "Bandsintown" for style
+  - Send request for concerts to Bandsintown API based off "artist" entered into parameter
+  - parse data into readable object
+  - return name, city, country and date of concerts
+  - Chalk package used for style
 
-read and return information in random.txt by utilizing if statement
-display();
+- spotifySong();
+  - declare searchTrack variable as parameter
+  - set undefined parameter
+      - return Ace of Base The Sign if no track entered into parameter
+  - figlet "Spotify" for style
+  - search Spotify API and return artist, song, url preview and album name of song entered in parameter
+  - Chalk package used for style
 
-append information to log.txt
-call switchCase();
+- ombdInfo();
+  - set findMovie variable as parameter
+  - set undefined parameter
+    - return "Mr. Nobody" if no parameter entered
+  - figlet "OMDB" for style
+  - Send movie request to OMDb API and return title, release year, IMDB rating, Rotten Tomatoes rating, country, language, plot and actors
+  - Chalk package used for style
+
+- getRandom();
+  - read and return information in random.txt by utilizing if statement
+
+- display();
+  - append information to log.txt
+
+- call switchCase();
+
