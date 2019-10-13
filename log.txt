@@ -189,3 +189,9 @@ Invalid. Does not compute. Self-destructing in 3..2..1..
 [94m---------------------------------------------------[39m
 [94m[39m
 [32mRotten Tomatoes Rating: 67%[39m
+[32mTitle: Scary[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mRelease Year: 2012[39m
+[32mIMDB Rating: 8.4[39m
