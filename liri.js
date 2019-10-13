@@ -78,14 +78,14 @@ request(queryUrl, function(error, response, body) {
 
   if (!error && response.statusCode === 200) {
 
-    var JS = JSON.parse(body);
+   let JS = JSON.parse(body);
     for (i = 0; i < JS.length; i++)
     {
-      var dateTime = JS[i].datetime;
-        var month = dateTime.substring(5,7);
-        var year = dateTime.substring(0,4);
-        var day = dateTime.substring(8,10);
-        var dateForm = month + "/" + day + "/" + year
+     let dateTime = JS[i].datetime;
+       let month = dateTime.substring(5,7);
+       let year = dateTime.substring(0,4);
+       let day = dateTime.substring(8,10);
+       let dateForm = month + "/" + day + "/" + year
   
       display(chalk.blue("\n---------------------------------------------------\n"));
       display(chalk.green("Name: " + JS[i].venue.name));
@@ -109,7 +109,7 @@ let spotifyFig = "Spotify"
 function spotifySong(parameter) {
 
 
-  var searchTrack;
+  let searchTrack;
   if (parameter === undefined) {
     searchTrack = "Ace of Base The Sign";
   } else {

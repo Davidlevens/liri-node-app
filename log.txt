@@ -1,1 +1,132 @@
 Invalid. Does not compute. Self-destructing in 3..2..1..
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: The Colosseum at Caesars[39m
+[32mCity: Las Vegas[39m
+[32mCountry: United States[39m
+[32mCountry: NV[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: THE COLOSSEUM AT CAESARS PALACE[39m
+[32mDate: 10/12/2019[39m
+[32mCountry: United States[39m
+[32mCity: Las Vegas[39m
+[32mCountry: NV[39m
+[32mDate: 10/16/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mCity: Las Vegas[39m
+[32mName: THE COLOSSEUM AT CAESARS PALACE[39m
+[32mCountry: NV[39m
+[32mCountry: United States[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mDate: 10/18/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: THE COLOSSEUM AT CAESARS PALACE[39m
+[32mCity: Las Vegas[39m
+[32mCountry: NV[39m
+[32mCountry: United States[39m
+[32mDate: 10/19/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: THE COLOSSEUM AT CAESARS PALACE[39m
+[32mCity: Las Vegas[39m
+[32mCountry: NV[39m
+[32mCountry: United States[39m
+[32mDate: 10/23/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: THE COLOSSEUM AT CAESARS PALACE[39m
+[32mCity: Las Vegas[39m
+[32mCountry: NV[39m
+[32mCountry: United States[39m
+[32mDate: 10/25/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: THE COLOSSEUM AT CAESARS PALACE[39m
+[32mCity: Las Vegas[39m
+[32mCountry: NV[39m
+[32mCountry: United States[39m
+[32mDate: 10/26/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: THE COLOSSEUM AT CAESARS PALACE[39m
+[32mCity: Las Vegas[39m
+[32mCountry: NV[39m
+[32mCountry: United States[39m
+[32mDate: 12/27/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mCity: Las Vegas[39m
+[32mName: THE COLOSSEUM AT CAESARS PALACE[39m
+[32mCountry: NV[39m
+[32mCountry: United States[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mDate: 12/28/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: THE COLOSSEUM AT CAESARS PALACE[39m
+[32mCity: Las Vegas[39m
+[32mCountry: NV[39m
+[32mCountry: United States[39m
+[32mDate: 12/30/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: THE COLOSSEUM AT CAESARS PALACE[39m
+[32mCity: Las Vegas[39m
+[32mCountry: NV[39m
+[32mCountry: United States[39m
+[32mDate: 12/31/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist: Yes[39m
+[32mPreview: https://p.scdn.co/mp3-preview/74f9769cc6f593063842ca3a68ecc62b1735891f?cid=2cb819e9594047ce97691d62577d2d93[39m
+[32mSong: Owner of a Lonely Heart[39m
+[32mAlbum: 90125 (Deluxe Version)[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
