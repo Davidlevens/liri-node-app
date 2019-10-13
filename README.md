@@ -42,6 +42,8 @@ Type into the command line....
 
 [request](https://www.npmjs.com/package/request)
 
+[axios](https://www.npmjs.com/package/axios)
+
 [Bandsintown API](http://www.artists.bandsintown.com/bandsintown-api)
 
 [OMDb API](http://www.omdbapi.com/)
