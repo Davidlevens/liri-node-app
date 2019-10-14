@@ -195,3 +195,1044 @@ Invalid. Does not compute. Self-destructing in 3..2..1..
 [94m[39m
 [32mRelease Year: 2012[39m
 [32mIMDB Rating: 8.4[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mTitle: undefined[39m
+[32mRelease Year: undefined[39m
+[32mIMDB Rating: undefined[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mTitle: Airplane![39m
+[32mIMDB Rating: 7.7[39m
+[32mRelease Year: 1980[39m
+[32mRotten Tomatoes Rating: 97%[39m
+[32mCountry: USA[39m
+[32mLanguage: English[39m
+[32mPlot: A man afraid to fly must ensure that a plane lands safely after the pilots become sick.[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mActors: Kareem Abdul-Jabbar, Lloyd Bridges, Peter Graves, Julie Hagerty[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mTitle: No Country for Old Men[39m
+[32mRelease Year: 2007[39m
+[32mIMDB Rating: 8.1[39m
+[32mRotten Tomatoes Rating: 93%[39m
+[32mCountry: USA[39m
+[32mPlot: Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.[39m
+[32mActors: Tommy Lee Jones, Javier Bardem, Josh Brolin, Woody Harrelson[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mLanguage: English, Spanish[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mTitle: No Country for Old Men[39m
+[32mRelease Year: 2007[39m
+[32mIMDB Rating: 8.1[39m
+[32mRotten Tomatoes Rating: 93%[39m
+[32mCountry: USA[39m
+[32mLanguage: English, Spanish[39m
+[32mActors: Tommy Lee Jones, Javier Bardem, Josh Brolin, Woody Harrelson[39m
+[32mPlot: Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mTitle: No Country for Old Men[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mIMDB Rating: 8.1[39m
+[32mRelease Year: 2007[39m
+[32mLanguage: English, Spanish[39m
+[32mRotten Tomatoes Rating: 93%[39m
+[32mCountry: USA[39m
+[32mPlot: Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.[39m
+[32mActors: Tommy Lee Jones, Javier Bardem, Josh Brolin, Woody Harrelson[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mTitle: Men in Black[39m
+[32mRelease Year: 1997[39m
+[32mRotten Tomatoes Rating: 92%[39m
+[32mIMDB Rating: 7.3[39m
+[32mCountry: USA[39m
+[32mLanguage: English, Spanish[39m
+[32mPlot: A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mActors: Tommy Lee Jones, Will Smith, Linda Fiorentino, Vincent D'Onofrio[39m
+Invalid. Does not compute. Self-destructing in 3..2..1..
+Invalid. Does not compute. Self-destructing in 3..2..1..
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist: Led Zeppelin[39m
+[32mSong: D'yer Mak'er - Remastered[39m
+[32mPreview: https://p.scdn.co/mp3-preview/2ee12466c614fd30f7ff00f067a9b3ec0cd1182b?cid=2cb819e9594047ce97691d62577d2d93[39m
+[32mAlbum: Houses Of The Holy (Deluxe Edition)[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist: Tom Robinson[39m
+[32mSong: Getting Tighter[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mAlbum: Rising Free - The Very Best Of TRB[39m
+[32mPreview: https://p.scdn.co/mp3-preview/56b02c3bf815c4df25fcc72b84cd04caf21967e9?cid=2cb819e9594047ce97691d62577d2d93[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist: Deep Purple[39m
+[32mSong: Gettin' Tighter[39m
+[32mPreview: null[39m
+[32mAlbum: Come Taste the Band[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist: Barrett Baber[39m
+[32mSong: Feelin' That Way[39m
+[32mPreview: https://p.scdn.co/mp3-preview/09014e9767aa6de14a6f1c499825cdbc4e9554dc?cid=2cb819e9594047ce97691d62577d2d93[39m
+[32mAlbum: Falling Again[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist: Journey[39m
+[32mPreview: https://p.scdn.co/mp3-preview/7666fe82443b10ab9a39186e81eafdb85474fdd5?cid=2cb819e9594047ce97691d62577d2d93[39m
+[32mSong: Feeling That Way[39m
+[32mAlbum: Infinity[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+Invalid. Does not compute. Self-destructing in 3..2..1..
+Invalid. Does not compute. Self-destructing in 3..2..1..
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mTitle: Airplane![39m
+[32mRotten Tomatoes Rating: 97%[39m
+[32mRelease Year: 1980[39m
+[32mCountry: USA[39m
+[32mIMDB Rating: 7.7[39m
+[32mLanguage: English[39m
+[32mActors: Kareem Abdul-Jabbar, Lloyd Bridges, Peter Graves, Julie Hagerty[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mPlot: A man afraid to fly must ensure that a plane lands safely after the pilots become sick.[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mTitle: Lion[39m
+[32mRelease Year: 2016[39m
+[32mIMDB Rating: 8.0[39m
+[32mRotten Tomatoes Rating: 85%[39m
+[32mCountry: UK, Australia, USA[39m
+[32mLanguage: English, Hindi, Bengali[39m
+[32mPlot: A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia. 25 years later, he sets out to find his lost family.[39m
+[32mActors: Sunny Pawar, Abhishek Bharate, Priyanka Bose, Khushi Solanki[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mIMDB Rating: 9.3[39m
+[32mTitle: The Shawshank Redemption[39m
+[32mRelease Year: 1994[39m
+[32mCountry: USA[39m
+[32mRotten Tomatoes Rating: 90%[39m
+[32mPlot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.[39m
+[32mLanguage: English[39m
+[32mActors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: Werchter Boutique[39m
+[32mCountry: Belgium[39m
+[32mCity: Rotselaar[39m
+[32mDate: 06/20/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: Waldbühne Berlin[39m
+[32mCity: Berlin[39m
+[32mCountry: Germany[39m
+[32mDate: 06/24/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: Oslo Sommertid[39m
+[32mCity: Oslo[39m
+[32mCountry: Norway[39m
+[32mDate: 06/26/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: Roskilde Festival[39m
+[32mCity: Roskilde[39m
+[32mCountry: Denmark[39m
+[32mDate: 07/01/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mCity: Powiat Pucki[39m
+[32mName: Open’er Festival[39m
+[32mCountry: Poland[39m
+[32mDate: 07/03/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: Festival de Nîmes[39m
+[32mCity: Nimes[39m
+[32mCountry: France[39m
+[32mDate: 07/05/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: NOS Alive[39m
+[32mCity: Algés[39m
+[32mCountry: Portugal[39m
+[32mDate: 07/09/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: Allianz Parque[39m
+[32mCity: Sao Paulo[39m
+[32mCountry: Brazil[39m
+[32mDate: 07/18/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: Lover Fest West[39m
+[32mCity: Los Angeles[39m
+[32mCountry: CA[39m
+[32mCountry: United States[39m
+[32mDate: 07/25/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: Lover Fest West[39m
+[32mCity: Los Angeles[39m
+[32mCountry: CA[39m
+[32mCountry: United States[39m
+[32mDate: 07/26/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: Lover Fest East[39m
+[32mCity: Foxborough[39m
+[32mCountry: MA[39m
+[32mCountry: United States[39m
+[32mDate: 07/31/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: Lover Fest East[39m
+[32mCity: Foxborough[39m
+[32mCountry: MA[39m
+[32mCountry: United States[39m
+[32mDate: 08/01/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mCountry: WI[39m
+[32mName: Potawatomi Hotel & Casino - The Northern Lights Theater[39m
+[32mCountry: United States[39m
+[32mCity: Milwaukee[39m
+[32mDate: 11/07/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: Arcada Theatre[39m
+[32mCity: St Charles[39m
+[32mCountry: IL[39m
+[32mCountry: United States[39m
+[32mDate: 11/09/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: The Theater at MGM National Harbor[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mCountry: MD[39m
+[32mCity: Bar Harbor Manor[39m
+[32mCountry: United States[39m
+[32mDate: 11/22/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: The Token Lounge[39m
+[32mCity: Westland[39m
+[32mCountry: MI[39m
+[32mCountry: United States[39m
+[32mDate: 12/13/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist: Winger[39m
+[32mName: Potawatomi Hotel & Casino - The Northern Lights Theater[39m
+[32mCity: Milwaukee[39m
+[32mCountry: WI[39m
+[32mCountry: United States[39m
+[32mDate: 11/07/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist: Winger[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: Arcada Theatre[39m
+[32mCity: St Charles[39m
+[32mCountry: IL[39m
+[32mCountry: United States[39m
+[32mDate: 11/09/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist: Winger,Warrant,Firehouse[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: The Theater at MGM National Harbor[39m
+[32mCity: Bar Harbor Manor[39m
+[32mCountry: United States[39m
+[32mCountry: MD[39m
+[32mDate: 11/22/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist: Winger[39m
+[32mName: The Token Lounge[39m
+[32mCity: Westland[39m
+[32mCountry: MI[39m
+[32mCountry: United States[39m
+[32mDate: 12/13/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Winger[39m
+[32mName: Potawatomi Hotel & Casino - The Northern Lights Theater[39m
+[32mCity: Milwaukee[39m
+[32mCountry: United States[39m
+[32mDate: 11/07/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Winger[39m
+[32mState: WI[39m
+[32mName: Arcada Theatre[39m
+[32mCountry: United States[39m
+[32mState: IL[39m
+[32mDate: 11/09/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mCity: St Charles[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Winger,Warrant,Firehouse[39m
+[32mName: The Theater at MGM National Harbor[39m
+[32mCity: Bar Harbor Manor[39m
+[32mState: MD[39m
+[32mCountry: United States[39m
+[32mDate: 11/22/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Winger[39m
+[32mName: The Token Lounge[39m
+[32mCity: Westland[39m
+[32mState: MI[39m
+[32mCountry: United States[39m
+[32mDate: 12/13/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Foo Fighters[39m
+[32mName: Intersect[39m
+[32mCity: Las Vegas[39m
+[32mCountry: United States[39m
+[32mDate: 12/07/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mState: NV[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): David Lee Roth[39m
+[32mCity: Las Vegas[39m
+[32mName: David Lee Roth - ROCKS VEGAS[39m
+[32mState: NV[39m
+[32mCountry: United States[39m
+[32mDate: 01/08/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): David Lee Roth[39m
+[32mName: David Lee Roth - ROCKS VEGAS[39m
+[32mCity: Las Vegas[39m
+[32mState: NV[39m
+[32mCountry: United States[39m
+[32mDate: 01/10/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): David Lee Roth[39m
+[32mName: David Lee Roth - ROCKS VEGAS[39m
+[32mCity: Las Vegas[39m
+[32mState: NV[39m
+[32mCountry: United States[39m
+[32mDate: 01/11/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): David Lee Roth[39m
+[32mName: David Lee Roth - ROCKS VEGAS[39m
+[32mCity: Las Vegas[39m
+[32mState: NV[39m
+[32mCountry: United States[39m
+[32mDate: 03/18/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): David Lee Roth[39m
+[32mName: David Lee Roth - ROCKS VEGAS[39m
+[32mCity: Las Vegas[39m
+[32mState: NV[39m
+[32mCountry: United States[39m
+[32mDate: 03/20/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): David Lee Roth[39m
+[32mName: David Lee Roth - ROCKS VEGAS[39m
+[32mCity: Las Vegas[39m
+[32mState: NV[39m
+[32mCountry: United States[39m
+[32mDate: 03/21/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): David Lee Roth[39m
+[32mName: David Lee Roth - ROCKS VEGAS[39m
+[32mCity: Las Vegas[39m
+[32mState: NV[39m
+[32mCountry: United States[39m
+[32mDate: 03/25/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): David Lee Roth[39m
+[32mName: David Lee Roth - ROCKS VEGAS[39m
+[32mCity: Las Vegas[39m
+[32mState: NV[39m
+[32mCountry: United States[39m
+[32mDate: 03/27/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: David Lee Roth - ROCKS VEGAS[39m
+[32mCity: Las Vegas[39m
+[32mArtist(s): David Lee Roth[39m
+[32mState: NV[39m
+[32mCountry: United States[39m
+[32mDate: 03/28/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Santana,Carlos, Carlos Santana[39m
+[32mCity: Las Vegas[39m
+[32mName: House of Blues Las Vegas presented by Cricket Wireless[39m
+[32mState: NV[39m
+[32mCountry: United States[39m
+[32mDate: 10/30/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Santana[39m
+[32mName: House of Blues Las Vegas[39m
+[32mCity: Las Vegas[39m
+[32mState: NV[39m
+[32mCountry: United States[39m
+[32mDate: 10/31/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Santana,Carlos, Carlos Santana[39m
+[32mName: House of Blues Las Vegas presented by Cricket Wireless[39m
+[32mCity: Las Vegas[39m
+[32mState: NV[39m
+[32mCountry: United States[39m
+[32mDate: 11/01/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Santana,Carlos, Carlos Santana[39m
+[32mName: House of Blues Las Vegas presented by Cricket Wireless[39m
+[32mCity: Las Vegas[39m
+[32mState: NV[39m
+[32mCountry: United States[39m
+[32mDate: 11/02/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Santana,Carlos, Carlos Santana[39m
+[32mName: House of Blues Las Vegas presented by Cricket Wireless[39m
+[32mCity: Las Vegas[39m
+[32mState: NV[39m
+[32mCountry: United States[39m
+[32mDate: 11/03/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Santana[39m
+[32mName: House of Blues Las Vegas[39m
+[32mCity: Las Vegas[39m
+[32mState: NV[39m
+[32mCountry: United States[39m
+[32mDate: 11/04/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Santana[39m
+[32mName: House of Blues Las Vegas[39m
+[32mCity: Las Vegas[39m
+[32mState: NV[39m
+[32mCountry: United States[39m
+[32mDate: 11/05/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Santana,Carlos, Carlos Santana[39m
+[32mName: House of Blues Las Vegas presented by Cricket Wireless[39m
+[32mCity: Las Vegas[39m
+[32mState: NV[39m
+[32mCountry: United States[39m
+[32mDate: 11/06/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Santana[39m
+[32mName: House of Blues Las Vegas[39m
+[32mCity: Las Vegas[39m
+[32mState: NV[39m
+[32mCountry: United States[39m
+[32mDate: 11/07/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Santana,Carlos, Carlos Santana[39m
+[32mName: House of Blues Las Vegas presented by Cricket Wireless[39m
+[32mCity: Las Vegas[39m
+[32mState: NV[39m
+[32mCountry: United States[39m
+[32mDate: 11/08/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Santana,Carlos, Carlos Santana[39m
+[32mName: House of Blues Las Vegas presented by Cricket Wireless[39m
+[32mCity: Las Vegas[39m
+[32mState: NV[39m
+[32mCountry: United States[39m
+[32mDate: 11/09/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Santana,Carlos, Carlos Santana[39m
+[32mName: House of Blues Las Vegas presented by Cricket Wireless[39m
+[32mCity: Las Vegas[39m
+[32mState: NV[39m
+[32mCountry: United States[39m
+[32mDate: 11/10/2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Santana,WAR[39m
+[32mCity: San Francisco[39m
+[32mState: CA[39m
+[32mName: Chase Center[39m
+[32mCountry: United States[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: House of Blues Las Vegas presented by Cricket Wireless[39m
+[32mCity: Las Vegas[39m
+[32mCountry: United States[39m
+[32mDate: 01/22/2020[39m
+[32mDate: 11/12/2019[39m
+[32mState: NV[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Santana,Carlos, Carlos Santana[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Santana,Carlos, Carlos Santana[39m
+[32mName: House of Blues Las Vegas presented by Cricket Wireless[39m
+[32mCountry: United States[39m
+[32mDate: 01/24/2020[39m
+[32mCity: Las Vegas[39m
+[32mState: NV[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: House of Blues Las Vegas presented by Cricket Wireless[39m
+[32mCity: Las Vegas[39m
+[32mState: NV[39m
+[32mCountry: United States[39m
+[32mDate: 01/25/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Santana,Carlos, Carlos Santana[39m
+[32mArtist(s): Santana,Carlos, Carlos Santana[39m
+[32mName: House of Blues Las Vegas presented by Cricket Wireless[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mCity: Las Vegas[39m
+[32mState: NV[39m
+[32mCountry: United States[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: House of Blues Las Vegas presented by Cricket Wireless[39m
+[32mCity: Las Vegas[39m
+[32mState: NV[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Santana,Carlos, Carlos Santana[39m
+[32mCountry: United States[39m
+[32mDate: 01/26/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mDate: 01/28/2020[39m
+[32mArtist(s): Santana,Carlos, Carlos Santana[39m
+[32mName: House of Blues Las Vegas presented by Cricket Wireless[39m
+[32mCountry: United States[39m
+[32mDate: 01/29/2020[39m
+[32mCity: Las Vegas[39m
+[32mState: NV[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Santana,Carlos, Carlos Santana[39m
+[32mName: House of Blues Las Vegas presented by Cricket Wireless[39m
+[32mState: NV[39m
+[32mDate: 01/31/2020[39m
+[32mCity: Las Vegas[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mCountry: United States[39m
+[32mArtist(s): Santana,Carlos, Carlos Santana[39m
+[32mName: House of Blues Las Vegas presented by Cricket Wireless[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mCity: Las Vegas[39m
+[32mDate: 02/01/2020[39m
+[32mCountry: United States[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mState: NV[39m
+[32mArtist(s): Santana,Carlos, Carlos Santana[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: House of Blues Las Vegas presented by Cricket Wireless[39m
+[32mState: NV[39m
+[32mDate: 05/13/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mCity: Las Vegas[39m
+[32mCountry: United States[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: House of Blues Las Vegas presented by Cricket Wireless[39m
+[32mCity: Las Vegas[39m
+[32mArtist(s): Santana,Carlos, Carlos Santana[39m
+[32mCountry: United States[39m
+[32mState: NV[39m
+[32mDate: 05/15/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Santana,Carlos, Carlos Santana[39m
+[32mName: House of Blues Las Vegas presented by Cricket Wireless[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mCountry: United States[39m
+[32mDate: 05/16/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Santana,Carlos, Carlos Santana[39m
+[32mName: House of Blues Las Vegas presented by Cricket Wireless[39m
+[32mCity: Las Vegas[39m
+[32mState: NV[39m
+[32mCountry: United States[39m
+[32mDate: 05/17/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Santana,Carlos, Carlos Santana[39m
+[32mCity: Las Vegas[39m
+[32mState: NV[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mCity: Las Vegas[39m
+[32mState: NV[39m
+[32mName: House of Blues Las Vegas presented by Cricket Wireless[39m
+[32mCountry: United States[39m
+[32mDate: 05/20/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Santana,Carlos, Carlos Santana[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mCity: Las Vegas[39m
+[32mState: NV[39m
+[32mCountry: United States[39m
+[32mName: House of Blues Las Vegas presented by Cricket Wireless[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Santana,Carlos, Carlos Santana[39m
+[32mName: House of Blues Las Vegas presented by Cricket Wireless[39m
+[32mCity: Las Vegas[39m
+[32mDate: 05/22/2020[39m
+[32mCountry: United States[39m
+[32mDate: 05/23/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mState: NV[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Santana,Carlos, Carlos Santana[39m
+[32mName: House of Blues Las Vegas presented by Cricket Wireless[39m
+[32mState: NV[39m
+[32mCountry: United States[39m
+[32mCity: Las Vegas[39m
+[32mDate: 05/24/2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mTitle: Scary[39m
+[32mRelease Year: 2012[39m
+[32mIMDB Rating: 8.4[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mTitle: Terminator[39m
+[32mRelease Year: 1991[39m
+[32mIMDB Rating: 6.2[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mTitle: The Shawshank Redemption[39m
+[32mRotten Tomatoes Rating: 90%[39m
+[32mIMDB Rating: 9.3[39m
+[32mLanguage: English[39m
+[32mCountry: USA[39m
+[32mRelease Year: 1994[39m
+[32mActors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mPlot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mRelease Year: 2012[39m
+[32mIMDB Rating: 8.4[39m
+[32mTitle: Scary[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mTitle: Scary[39m
+[32mRelease Year: 2012[39m
+[32mIMDB Rating: 8.4[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mRelease Year: 2000[39m
+[32mTitle: Scary Movie[39m
+[32mIMDB Rating: 6.2[39m
+[32mRotten Tomatoes Rating: 53%[39m
+[32mLanguage: English[39m
+[32mCountry: USA[39m
+[32mPlot: A year after disposing of the body of a man they accidentally killed, a group of dumb teenagers are stalked by a bumbling serial killer.[39m
+[32mActors: Carmen Electra, Dave Sheridan, Frank B. Moore, Giacomo Baessato[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mTitle: Deadpool[39m
+[32mIMDB Rating: 8.0[39m
+[32mRelease Year: 2016[39m
+[32mCountry: USA[39m
+[32mRotten Tomatoes Rating: 84%[39m
+[32mLanguage: English[39m
+[32mPlot: A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mActors: Ryan Reynolds, Karan Soni, Ed Skrein, Michael Benyaer[39m
+Invalid. Does not compute. Self-destructing in 3..2..1..
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist: Tyler, The Creator[39m
+[32mSong: RUNNING OUT OF TIME[39m
+[32mPreview: https://p.scdn.co/mp3-preview/77d5e9b6a71c0daa4adddc8faea8c5b2a71b1b6e?cid=2cb819e9594047ce97691d62577d2d93[39m
+[32mAlbum: IGOR[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist: Alexz Johnson[39m
+[32mPreview: https://p.scdn.co/mp3-preview/af7cd7f2e6b8533a177dcd66c4b681e2fd5c75c9?cid=2cb819e9594047ce97691d62577d2d93[39m
+[32mSong: Running with the Devil[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mAlbum: Running with the Devil[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist: Van Halen[39m
+[32mSong: Runnin' with the Devil - 2015 Remaster[39m
+[32mPreview: https://p.scdn.co/mp3-preview/b6f86b1a6d65c1fcbf89b6526925aff6ae4b170a?cid=2cb819e9594047ce97691d62577d2d93[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mAlbum: Van Halen (Remastered)[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist: Travis Scott[39m
+[32mSong: HIGHEST IN THE ROOM[39m
+[32mPreview: null[39m
+[32mAlbum: HIGHEST IN THE ROOM[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist: Charmian Carr[39m
+[32mPreview: https://p.scdn.co/mp3-preview/2e5146ab5f5688bd1f963abbbc3ba8df9db26b89?cid=2cb819e9594047ce97691d62577d2d93[39m
+[32mSong: The Sound of Music[39m
+[32mAlbum: The Sound of Music - Original Soundtrack Recording[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist: Charmian Carr[39m
+[32mSong: The Sound of Music[39m
+[32mPreview: https://p.scdn.co/mp3-preview/2e5146ab5f5688bd1f963abbbc3ba8df9db26b89?cid=2cb819e9594047ce97691d62577d2d93[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mAlbum: The Sound of Music - Original Soundtrack Recording[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist: Deep Purple[39m
+[32mSong: Smoke on the Water[39m
+[32mPreview: https://p.scdn.co/mp3-preview/a7d9139b335888a1779fb437061d33a5517f47a2?cid=2cb819e9594047ce97691d62577d2d93[39m
+[32mAlbum: Machine Head[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m

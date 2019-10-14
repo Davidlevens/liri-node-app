@@ -73,6 +73,8 @@ Type into the command line....
 
 - ```npm install request```
 
+- ```npm install axios```
+
 - ```npm install figlet```
 
 - ```npm install node-spotify-api```
@@ -109,7 +111,7 @@ Type into the command line....
   - set undefined parameter
     - return "Mr. Nobody" if no parameter entered
   - figlet "OMDB" for style
-  - Send movie request to OMDb API and return title, release year, IMDB rating, Rotten Tomatoes rating, country, language, plot and actors
+  - Retrieve movie data from OMDb API and return title, release year, IMDB rating, Rotten Tomatoes rating, country, language, plot and actors
   - Chalk package used for style
 
 - getRandom();

@@ -12,7 +12,8 @@ const axios = require("axios");
 const chalk = require('chalk');
 
 const command = process.argv[2];
-const parameter = process.argv[3];
+const parameter = process.argv[3].split(" ").join("+");
+
 
 
 
@@ -48,7 +49,7 @@ function switchCase() {
 function bandsInTown(parameter) {
 
     if ('concert-this') {
-        let artist = "";
+        var artist = "";
         for (let i = 3; i < process.argv.length; i++) {
             artist += process.argv[i];
         }
@@ -61,7 +62,7 @@ function bandsInTown(parameter) {
             }
             console.log(chalk.green(data));
         });
-        // console.log(artist);
+        console.log(artist);
     }
     else {
         artist = parameter;
@@ -85,10 +86,11 @@ function bandsInTown(parameter) {
                 let dateForm = month + "/" + day + "/" + year
 
                 display(chalk.blue("\n---------------------------------------------------\n"));
+                display(chalk.green("Artist(s): " + JS[i].lineup));
                 display(chalk.green("Name: " + JS[i].venue.name));
                 display(chalk.green("City: " + JS[i].venue.city));
                 if (JS[i].venue.region !== "") {
-                    display(chalk.green("Country: " + JS[i].venue.region));
+                    display(chalk.green("State: " + JS[i].venue.region));
                 }
                 display(chalk.green("Country: " + JS[i].venue.country));
                 display(chalk.green("Date: " + dateForm));
