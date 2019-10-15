@@ -12,7 +12,7 @@ const axios = require("axios");
 const chalk = require('chalk');
 
 const command = process.argv[2];
-const parameter = process.argv[3].split(" ").join("+");
+const parameter = process.argv[3];
 
 
 
