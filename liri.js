@@ -8,6 +8,7 @@ const keys = require("./keys.js");
 const Spotify = require('node-spotify-api');
 const spotify = new Spotify(keys.spotify);
 const axios = require("axios");
+const moment = require("moment");
 
 const chalk = require('chalk');
 
@@ -79,12 +80,8 @@ function bandsInTown(parameter) {
 
             let JS = JSON.parse(body);
             for (i = 0; i < JS.length; i++) {
-                let dateTime = JS[i].datetime;
-                let month = dateTime.substring(5, 7);
-                let year = dateTime.substring(0, 4);
-                let day = dateTime.substring(8, 10);
-                let dateForm = month + "/" + day + "/" + year
-
+                let dateForm = moment(JS[i].datetime).format('LL');
+               
                 display(chalk.blue("\n---------------------------------------------------\n"));
                 display(chalk.green("Artist(s): " + JS[i].lineup));
                 display(chalk.green("Name: " + JS[i].venue.name));

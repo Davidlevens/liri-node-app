@@ -1620,3 +1620,237 @@ Invalid. Does not compute. Self-destructing in 3..2..1..
 [94m[39m
 [94m---------------------------------------------------[39m
 [94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist: Backstreet Boys[39m
+[32mSong: I Want It That Way[39m
+[32mAlbum: The Hits--Chapter One[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mPreview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=2cb819e9594047ce97691d62577d2d93[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist: Backstreet Boys[39m
+[32mSong: I Want It That Way[39m
+[32mPreview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=2cb819e9594047ce97691d62577d2d93[39m
+[32mAlbum: The Hits--Chapter One[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist: Backstreet Boys[39m
+[32mSong: I Want It That Way[39m
+[32mPreview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=2cb819e9594047ce97691d62577d2d93[39m
+[32mAlbum: The Hits--Chapter One[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist: Backstreet Boys[39m
+[32mSong: I Want It That Way[39m
+[32mPreview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=2cb819e9594047ce97691d62577d2d93[39m
+[32mAlbum: The Hits--Chapter One[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist: Backstreet Boys[39m
+[32mSong: I Want It That Way[39m
+[32mPreview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=2cb819e9594047ce97691d62577d2d93[39m
+[32mAlbum: The Hits--Chapter One[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Taylor Swift[39m
+[32mName: Werchter Boutique[39m
+[32mCity: Rotselaar[39m
+[32mCountry: Belgium[39m
+[32mDate: June 20, 2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Taylor Swift[39m
+[32mName: Waldbühne Berlin[39m
+[32mCity: Berlin[39m
+[32mCountry: Germany[39m
+[32mDate: June 24, 2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Taylor Swift[39m
+[32mName: Oslo Sommertid[39m
+[32mCity: Oslo[39m
+[32mCountry: Norway[39m
+[32mDate: June 26, 2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Taylor Swift[39m
+[32mName: Roskilde Festival[39m
+[32mCity: Roskilde[39m
+[32mCountry: Denmark[39m
+[32mDate: July 1, 2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Taylor Swift[39m
+[32mName: Open’er Festival[39m
+[32mCity: Powiat Pucki[39m
+[32mCountry: Poland[39m
+[32mDate: July 3, 2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Taylor Swift[39m
+[32mName: Festival de Nîmes[39m
+[32mCountry: France[39m
+[32mCity: Nimes[39m
+[32mDate: July 5, 2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Taylor Swift[39m
+[32mName: NOS Alive[39m
+[32mCity: Algés[39m
+[32mCountry: Portugal[39m
+[32mDate: July 9, 2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Taylor Swift[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mName: Allianz Parque[39m
+[32mCity: Sao Paulo[39m
+[32mCountry: Brazil[39m
+[32mDate: July 18, 2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Taylor Swift[39m
+[32mName: Lover Fest West[39m
+[32mCity: Los Angeles[39m
+[32mState: CA[39m
+[32mCountry: United States[39m
+[32mDate: July 25, 2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Taylor Swift[39m
+[32mName: Lover Fest West[39m
+[32mCity: Los Angeles[39m
+[32mState: CA[39m
+[32mCountry: United States[39m
+[32mDate: July 26, 2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Taylor Swift[39m
+[32mName: Lover Fest East[39m
+[32mCity: Foxborough[39m
+[32mState: MA[39m
+[32mCountry: United States[39m
+[32mDate: July 31, 2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Taylor Swift[39m
+[32mName: Lover Fest East[39m
+[32mCity: Foxborough[39m
+[32mState: MA[39m
+[32mCountry: United States[39m
+[32mDate: August 1, 2020[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Winger[39m
+[32mName: Potawatomi Hotel & Casino - The Northern Lights Theater[39m
+[32mCity: Milwaukee[39m
+[32mState: WI[39m
+[32mCountry: United States[39m
+[32mDate: November 7, 2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Winger[39m
+[32mName: Arcada Theatre[39m
+[32mCity: St Charles[39m
+[32mState: IL[39m
+[32mCountry: United States[39m
+[32mDate: November 9, 2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Winger,Warrant,Firehouse[39m
+[32mName: The Theater at MGM National Harbor[39m
+[32mCity: Bar Harbor Manor[39m
+[32mState: MD[39m
+[32mCountry: United States[39m
+[32mDate: November 22, 2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mArtist(s): Winger[39m
+[32mName: The Token Lounge[39m
+[32mCity: Westland[39m
+[32mState: MI[39m
+[32mCountry: United States[39m
+[32mDate: December 13, 2019[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
