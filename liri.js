@@ -48,9 +48,9 @@ function switchCase() {
 //BANDS IN TOWN
 
 function bandsInTown(parameter) {
-
+    let artist = "";
     if ('concert-this') {
-        var artist = "";
+       
         for (let i = 3; i < process.argv.length; i++) {
             artist += process.argv[i];
         }

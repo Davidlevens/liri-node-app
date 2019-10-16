@@ -5,6 +5,8 @@
 
 Author:  David Levens
 
+Inspiration Credit: Michael Benefiel, Craig W.-Thank You!
+
 <hr>
 
 <h3> App demo </h3>
@@ -28,6 +30,7 @@ Type into the command line....
   
 - ```node liri.js do-what-it-says``` to return information stored in random.txt
 
+- ```node liri.js <no command>``` to return switch/case default: "Invalid. Does not compute. Self-destructing in 3..2..1.."
 <hr>
 
 <h2>Technology and packages used</h2>
@@ -43,6 +46,8 @@ Type into the command line....
 [request](https://www.npmjs.com/package/request)
 
 [axios](https://www.npmjs.com/package/axios)
+
+[moment](https://www.npmjs.com/package/moment)
 
 [Bandsintown API](http://www.artists.bandsintown.com/bandsintown-api)
 
