@@ -11,7 +11,11 @@ Inspiration Credit: Michael Benefiel, Craig W.-Thank You!
 
 <h3> App demo </h3>
 
-![alt text](https://github.com/mjbenefiel/liri-node-app/blob/master/gif/liriappdemo.gif "Liri Node App")
+![alt text](./images/liri-terminal.png "Liri Node App")
+
+<hr>
+
+![alt text](./images/liri-bot4.png "Liri Node App")
 
 <hr>
 
